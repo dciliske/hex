@@ -6,9 +6,9 @@ It is hardcoded to convert from base 10 to 16 or base 16 to 10, depending on com
 It generates two executables 'hexc' and 'decc', which convert *to* the base in the name.
 
 ##Usage:
-./hexc <values to convert>
+./hexc \<values to convert\>
 
-./decc <values to convert>
+./decc \<values to convert\>
 
 ##Examples:
 ./hexc 10 20 255
